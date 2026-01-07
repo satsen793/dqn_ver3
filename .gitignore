@@ -6,8 +6,6 @@ __pycache__/
 *.pyd
 *.swp
 *.tmp
-logs/
-figures/
 .dqn_cache/
 .dvc/
 .ipynb_checkpoints/
