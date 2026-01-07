@@ -1,0 +1,68 @@
+{
+  "returns": [
+    10.213354556945344,
+    24.992347947393423,
+    37.435424018355015
+  ],
+  "time_to_mastery": [
+    100,
+    100,
+    100
+  ],
+  "episode_metrics": [
+    {
+      "total_steps": 74,
+      "final_mastery": 0.3902237201930044,
+      "cumulative_reward": 10.213354556945344,
+      "question_accuracy": 0.3333333333333333,
+      "content_rate": 0.6756756756756757,
+      "blueprint_adherence": 98.88888549804688,
+      "post_content_gain": 0.04360338325544002,
+      "post_content_gain_by_modality": {
+        "video": 0.07570249221211618,
+        "PPT": 0.04990368290885027,
+        "text": 0.03882083595203511,
+        "blog": 0.023280617286857187,
+        "article": 0.03947812585953173,
+        "handout": 0.03522868393739281
+      },
+      "mean_frustration": 0.21486486486486486
+    },
+    {
+      "total_steps": 97,
+      "final_mastery": 0.4218462012449047,
+      "cumulative_reward": 24.992347947393423,
+      "question_accuracy": 0.5581395348837209,
+      "content_rate": 0.5567010309278351,
+      "blueprint_adherence": 98.75968933105469,
+      "post_content_gain": 0.041958601936439494,
+      "post_content_gain_by_modality": {
+        "video": 0.05808806992950497,
+        "PPT": 0.05879788916600856,
+        "text": 0.019756968120040134,
+        "blog": 0.03983116416338059,
+        "article": 0.03833397202647024,
+        "handout": 0.03467751552616072
+      },
+      "mean_frustration": 0.3390721649484535
+    },
+    {
+      "total_steps": 97,
+      "final_mastery": 0.4226036512691539,
+      "cumulative_reward": 37.435424018355015,
+      "question_accuracy": 0.9354838709677419,
+      "content_rate": 0.6804123711340206,
+      "blueprint_adherence": 98.27957153320312,
+      "post_content_gain": 0.05708928464445138,
+      "post_content_gain_by_modality": {
+        "video": 0.08772202283126142,
+        "PPT": 0.0646653950427228,
+        "text": 0.0359792681781856,
+        "blog": 0.04578817062737452,
+        "article": 0.04891654338186313,
+        "handout": 0.03953997022957798
+      },
+      "mean_frustration": 0.034226804123711346
+    }
+  ]
+}
