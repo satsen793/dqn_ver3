@@ -1,0 +1,2011 @@
+{
+  "returns": [
+    37.22368067250667,
+    51.90970334929115,
+    22.54967896698991,
+    33.39599340335394,
+    18.26173377990574,
+    22.889027151726744,
+    44.38292160313939,
+    41.46548301980222,
+    35.27194600415772,
+    25.579566299773802,
+    40.15945866220315,
+    20.628540403749316,
+    23.467138042109067,
+    36.64532113293046,
+    38.19022355569454,
+    33.108205227086046,
+    40.50520406767517,
+    33.78958469024232,
+    40.33746018414026,
+    24.933910369905725,
+    52.14144376359112,
+    23.01839613393313,
+    30.537598839419843,
+    23.437707148784224,
+    8.447164954399616,
+    20.07728542055417,
+    20.166594953238505,
+    9.075862785659785,
+    37.15502124193251,
+    3.7848971149053487,
+    15.911810858294388,
+    21.58112709574869,
+    29.08764390535481,
+    32.30379084236106,
+    28.2381241666554,
+    21.711757173687246,
+    38.428290540743646,
+    31.389783031861878,
+    37.87490659811169,
+    48.175730133778686,
+    18.204769319564797,
+    5.201717423280361,
+    31.157053221624857,
+    51.077263476784886,
+    15.487078615250569,
+    13.25947054528094,
+    21.671720184923586,
+    21.28262046581677,
+    7.132290845020986,
+    14.815270818842789,
+    59.91518829100764,
+    33.21597161568277,
+    26.6470719770095,
+    22.271597219489927,
+    44.67043001740943,
+    15.17694114277094,
+    37.43513495597492,
+    33.888786614393844,
+    29.321722625153008,
+    19.175619444974167,
+    35.26519908972286,
+    35.970806740512664,
+    36.98514563536454,
+    11.242269289097472,
+    27.370558142337025,
+    28.050029562005548,
+    30.020962688849433,
+    32.96181282347962,
+    39.04122684784857,
+    40.8817810741147,
+    36.210166727093444,
+    54.64451454188759,
+    13.763423149898555,
+    18.089387742943703,
+    22.070580636848668,
+    12.3846346847372,
+    9.763253005180934,
+    25.585633137864612,
+    34.09652625234104,
+    12.288255703350131,
+    44.3631818727775,
+    41.88551647661358,
+    18.72641294136698,
+    36.97256069342298,
+    34.45195073012873,
+    29.199658876832952,
+    39.060110778763736,
+    35.53595859735638,
+    39.635878359955,
+    32.71200013330302,
+    23.826552289009175,
+    10.19081138982244,
+    26.748783126808117,
+    21.213400755577013,
+    38.03916429298385,
+    28.93848783306685,
+    30.346770210771997,
+    50.548192332189906,
+    2.958660545226293,
+    28.65421390690931
+  ],
+  "time_to_mastery": [
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140
+  ],
+  "episode_metrics": [
+    {
+      "total_steps": 131,
+      "final_mastery": 0.4751725106492658,
+      "cumulative_reward": 37.22368067250667,
+      "question_accuracy": 0.6153846153846154,
+      "content_rate": 0.6030534351145038,
+      "blueprint_adherence": 99.23076876439154,
+      "post_content_gain": 0.04602603241265356,
+      "post_content_gain_by_modality": {
+        "video": 0.06699051393814834,
+        "PPT": 0.050938329952441436,
+        "text": 0.031243036672671184,
+        "blog": 0.044323163171760646,
+        "article": 0.04732676410527125,
+        "handout": 0.040584150696159574
+      },
+      "mean_frustration": 0.18091603053435118
+    },
+    {
+      "total_steps": 129,
+      "final_mastery": 0.47246614959982275,
+      "cumulative_reward": 51.90970334929115,
+      "question_accuracy": 0.9534883720930233,
+      "content_rate": 0.6666666666666666,
+      "blueprint_adherence": 98.7596889026463,
+      "post_content_gain": 0.05658279872695203,
+      "post_content_gain_by_modality": {
+        "video": 0.08289087119012827,
+        "PPT": 0.059357018112438965,
+        "text": 0.04186327466900133,
+        "blog": 0.04810857857896174,
+        "article": 0.05208096166010473,
+        "handout": 0.042630004214930614
+      },
+      "mean_frustration": 0.035658914728682184
+    },
+    {
+      "total_steps": 124,
+      "final_mastery": 0.4426825867601302,
+      "cumulative_reward": 22.54967896698991,
+      "question_accuracy": 0.4473684210526316,
+      "content_rate": 0.6935483870967742,
+      "blueprint_adherence": 98.59649045392871,
+      "post_content_gain": 0.04845534358487609,
+      "post_content_gain_by_modality": {
+        "video": 0.07462097011070967,
+        "PPT": 0.06369698631873587,
+        "text": 0.030220480406267878,
+        "blog": 0.0459474597090451,
+        "article": 0.03286053658390947,
+        "handout": 0.035175522651573324
+      },
+      "mean_frustration": 0.2624193548387097
+    },
+    {
+      "total_steps": 120,
+      "final_mastery": 0.4705456353227286,
+      "cumulative_reward": 33.39599340335394,
+      "question_accuracy": 0.6153846153846154,
+      "content_rate": 0.675,
+      "blueprint_adherence": 99.31623935699463,
+      "post_content_gain": 0.05884705285699328,
+      "post_content_gain_by_modality": {
+        "video": 0.07349647405424631,
+        "PPT": 0.0625211783595332,
+        "text": 0.04676721049148474,
+        "blog": 0.05937487312666215,
+        "article": 0.054049483448892544,
+        "handout": 0.054377044422963434
+      },
+      "mean_frustration": 0.08508333333333336
+    },
+    {
+      "total_steps": 107,
+      "final_mastery": 0.4197889117790518,
+      "cumulative_reward": 18.26173377990574,
+      "question_accuracy": 0.34285714285714286,
+      "content_rate": 0.6728971962616822,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.0529422499936929,
+      "post_content_gain_by_modality": {
+        "video": 0.08077061186754027,
+        "PPT": 0.06683215120011685,
+        "text": 0.026475079772050804,
+        "blog": 0.04736995603506182,
+        "article": 0.049093601316652594,
+        "handout": 0.023101361412953006
+      },
+      "mean_frustration": 0.20401869158878505
+    },
+    {
+      "total_steps": 137,
+      "final_mastery": 0.4346975778453777,
+      "cumulative_reward": 22.889027151726744,
+      "question_accuracy": 0.41025641025641024,
+      "content_rate": 0.7153284671532847,
+      "blueprint_adherence": 99.31623935699463,
+      "post_content_gain": 0.04693981176333201,
+      "post_content_gain_by_modality": {
+        "video": 0.06889840819855628,
+        "PPT": 0.04086905589907642,
+        "text": 0.03540329906964033,
+        "blog": 0.0536230560886403,
+        "article": 0.04461520244722215,
+        "handout": 0.03642227435326461
+      },
+      "mean_frustration": 0.25729927007299275
+    },
+    {
+      "total_steps": 123,
+      "final_mastery": 0.4960213263131007,
+      "cumulative_reward": 44.38292160313939,
+      "question_accuracy": 0.8333333333333334,
+      "content_rate": 0.6585365853658537,
+      "blueprint_adherence": 99.04761807993054,
+      "post_content_gain": 0.05400657369291235,
+      "post_content_gain_by_modality": {
+        "video": 0.07443840997852018,
+        "PPT": 0.06615347196278984,
+        "text": 0.04434408811535375,
+        "blog": 0.06014243753126446,
+        "article": 0.04280162948273504,
+        "handout": 0.03651379116979607
+      },
+      "mean_frustration": 0.03682926829268294
+    },
+    {
+      "total_steps": 105,
+      "final_mastery": 0.47124379870270655,
+      "cumulative_reward": 41.46548301980222,
+      "question_accuracy": 0.8947368421052632,
+      "content_rate": 0.638095238095238,
+      "blueprint_adherence": 98.59649045392871,
+      "post_content_gain": 0.050604036558952965,
+      "post_content_gain_by_modality": {
+        "video": 0.06804262462563014,
+        "PPT": 0.056123417586706276,
+        "text": 0.0338485717911813,
+        "blog": 0.05862194295980016,
+        "article": 0.06314884609423707,
+        "handout": 0.03325586136346032
+      },
+      "mean_frustration": 0.02923809523809524
+    },
+    {
+      "total_steps": 127,
+      "final_mastery": 0.45579255791319123,
+      "cumulative_reward": 35.27194600415772,
+      "question_accuracy": 0.6842105263157895,
+      "content_rate": 0.7007874015748031,
+      "blueprint_adherence": 98.59649045392871,
+      "post_content_gain": 0.050314368297398056,
+      "post_content_gain_by_modality": {
+        "video": 0.07651073652050489,
+        "PPT": 0.059422177917155206,
+        "text": 0.032004833058498605,
+        "blog": 0.05219467619230936,
+        "article": 0.04556199845158183,
+        "handout": 0.036469505733953876
+      },
+      "mean_frustration": 0.07141732283464569
+    },
+    {
+      "total_steps": 88,
+      "final_mastery": 0.40879738922856,
+      "cumulative_reward": 25.579566299773802,
+      "question_accuracy": 0.6551724137931034,
+      "content_rate": 0.6704545454545454,
+      "blueprint_adherence": 99.08045930787921,
+      "post_content_gain": 0.056407357367392275,
+      "post_content_gain_by_modality": {
+        "video": 0.08745817068717872,
+        "PPT": 0.0666297923042905,
+        "text": 0.04583900292792608,
+        "blog": 0.05110942628378936,
+        "article": 0.04986252203946087,
+        "handout": 0.038376551262273975
+      },
+      "mean_frustration": 0.07931818181818183
+    },
+    {
+      "total_steps": 117,
+      "final_mastery": 0.41690470802751156,
+      "cumulative_reward": 40.15945866220315,
+      "question_accuracy": 0.8157894736842105,
+      "content_rate": 0.6752136752136753,
+      "blueprint_adherence": 98.59649045392871,
+      "post_content_gain": 0.05428944435732375,
+      "post_content_gain_by_modality": {
+        "video": 0.07771924069726584,
+        "PPT": 0.06157273859437781,
+        "text": 0.029839438992829686,
+        "blog": 0.05617489440367056,
+        "article": 0.046664980798073845,
+        "handout": 0.0412947607198795
+      },
+      "mean_frustration": 0.061709401709401715
+    },
+    {
+      "total_steps": 115,
+      "final_mastery": 0.39156172258915906,
+      "cumulative_reward": 20.628540403749316,
+      "question_accuracy": 0.4444444444444444,
+      "content_rate": 0.6086956521739131,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.04816371968680438,
+      "post_content_gain_by_modality": {
+        "video": 0.06266621369315807,
+        "PPT": 0.0542770123716748,
+        "text": 0.03708677469155803,
+        "blog": 0.04394773350400156,
+        "article": 0.04677892777012391,
+        "handout": 0.049097704599200515
+      },
+      "mean_frustration": 0.46060869565217416
+    },
+    {
+      "total_steps": 89,
+      "final_mastery": 0.4110276580865885,
+      "cumulative_reward": 23.467138042109067,
+      "question_accuracy": 0.6333333333333333,
+      "content_rate": 0.6629213483146067,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.05195842525216469,
+      "post_content_gain_by_modality": {
+        "video": 0.0781601470958718,
+        "PPT": 0.05478243323700242,
+        "text": 0.03780009230458255,
+        "blog": 0.05012899603646582,
+        "article": 0.05753659257034882,
+        "handout": 0.03874218557749403
+      },
+      "mean_frustration": 0.24898876404494386
+    },
+    {
+      "total_steps": 136,
+      "final_mastery": 0.46078165322964165,
+      "cumulative_reward": 36.64532113293046,
+      "question_accuracy": 0.6666666666666666,
+      "content_rate": 0.6470588235294118,
+      "blueprint_adherence": 98.88888793066144,
+      "post_content_gain": 0.0441306390319643,
+      "post_content_gain_by_modality": {
+        "video": 0.06707079020985925,
+        "PPT": 0.04887166846644008,
+        "text": 0.03426317706841448,
+        "blog": 0.04559556090248027,
+        "article": 0.03547703010657138,
+        "handout": 0.03633977621055438
+      },
+      "mean_frustration": 0.27382352941176474
+    },
+    {
+      "total_steps": 112,
+      "final_mastery": 0.4398998331126976,
+      "cumulative_reward": 38.19022355569454,
+      "question_accuracy": 0.7894736842105263,
+      "content_rate": 0.6607142857142857,
+      "blueprint_adherence": 98.59649045392871,
+      "post_content_gain": 0.05146493525469125,
+      "post_content_gain_by_modality": {
+        "video": 0.0692468477756326,
+        "PPT": 0.06694519853612349,
+        "text": 0.040845815187757685,
+        "blog": 0.05076804927665545,
+        "article": 0.03612517528334411,
+        "handout": 0.03535103453814082
+      },
+      "mean_frustration": 0.047767857142857154
+    },
+    {
+      "total_steps": 125,
+      "final_mastery": 0.464569820282506,
+      "cumulative_reward": 33.108205227086046,
+      "question_accuracy": 0.6857142857142857,
+      "content_rate": 0.72,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.05158093642154233,
+      "post_content_gain_by_modality": {
+        "video": 0.07603867221684629,
+        "PPT": 0.054895677237126496,
+        "text": 0.04162471139223552,
+        "blog": 0.05662916601439616,
+        "article": 0.04781141890093029,
+        "handout": 0.0354100748714995
+      },
+      "mean_frustration": 0.11256000000000004
+    },
+    {
+      "total_steps": 134,
+      "final_mastery": 0.5071008950786227,
+      "cumulative_reward": 40.50520406767517,
+      "question_accuracy": 0.7272727272727273,
+      "content_rate": 0.6716417910447762,
+      "blueprint_adherence": 99.39393796958029,
+      "post_content_gain": 0.04767172680793149,
+      "post_content_gain_by_modality": {
+        "video": 0.06488030717109078,
+        "PPT": 0.05780178045572725,
+        "text": 0.03306846951472068,
+        "blog": 0.05105723287918755,
+        "article": 0.050148602252150336,
+        "handout": 0.028372610639778337
+      },
+      "mean_frustration": 0.08268656716417912
+    },
+    {
+      "total_steps": 115,
+      "final_mastery": 0.4346027013260697,
+      "cumulative_reward": 33.78958469024232,
+      "question_accuracy": 0.7647058823529411,
+      "content_rate": 0.7043478260869566,
+      "blueprint_adherence": 99.21568632125854,
+      "post_content_gain": 0.04775232231844073,
+      "post_content_gain_by_modality": {
+        "video": 0.06307127988428039,
+        "PPT": 0.050726907279128756,
+        "text": 0.035086857235532905,
+        "blog": 0.05412723344287558,
+        "article": 0.04666629077996356,
+        "handout": 0.039653185185578546
+      },
+      "mean_frustration": 0.06608695652173914
+    },
+    {
+      "total_steps": 134,
+      "final_mastery": 0.47682498899197123,
+      "cumulative_reward": 40.33746018414026,
+      "question_accuracy": 0.6111111111111112,
+      "content_rate": 0.5970149253731343,
+      "blueprint_adherence": 99.50617253780365,
+      "post_content_gain": 0.052182414850632006,
+      "post_content_gain_by_modality": {
+        "video": 0.07396062906565179,
+        "PPT": 0.04696433063084155,
+        "text": 0.04351790539380419,
+        "blog": 0.055519145484477624,
+        "article": 0.03711531077244047,
+        "handout": 0.043685147275169846
+      },
+      "mean_frustration": 0.10708955223880598
+    },
+    {
+      "total_steps": 98,
+      "final_mastery": 0.41747587503066075,
+      "cumulative_reward": 24.933910369905725,
+      "question_accuracy": 0.6060606060606061,
+      "content_rate": 0.6632653061224489,
+      "blueprint_adherence": 98.38383700698614,
+      "post_content_gain": 0.04917639062569316,
+      "post_content_gain_by_modality": {
+        "video": 0.0652606245232514,
+        "PPT": 0.06022213967778837,
+        "text": 0.04191682323407905,
+        "blog": 0.06108452055572422,
+        "article": 0.04159253105790813,
+        "handout": 0.031154782443825288
+      },
+      "mean_frustration": 0.19132653061224494
+    },
+    {
+      "total_steps": 127,
+      "final_mastery": 0.45752307163939,
+      "cumulative_reward": 52.14144376359112,
+      "question_accuracy": 0.9130434782608695,
+      "content_rate": 0.6377952755905512,
+      "blueprint_adherence": 99.42029118537903,
+      "post_content_gain": 0.05441640416273373,
+      "post_content_gain_by_modality": {
+        "video": 0.08173568277425385,
+        "PPT": 0.06040378344097238,
+        "text": 0.036931031641542204,
+        "blog": 0.06576990239263793,
+        "article": 0.0428491642205374,
+        "handout": 0.02632873959750436
+      },
+      "mean_frustration": 0.02047244094488189
+    },
+    {
+      "total_steps": 82,
+      "final_mastery": 0.44689164177753715,
+      "cumulative_reward": 23.01839613393313,
+      "question_accuracy": 0.72,
+      "content_rate": 0.6951219512195121,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.051297455130655666,
+      "post_content_gain_by_modality": {
+        "video": 0.06338002769441514,
+        "PPT": 0.06272973117879482,
+        "text": 0.036099410410552826,
+        "blog": 0.054112636751795784,
+        "article": 0.05228390662226756,
+        "handout": 0.042980909955796405
+      },
+      "mean_frustration": 0.15621951219512198
+    },
+    {
+      "total_steps": 103,
+      "final_mastery": 0.41457584870450453,
+      "cumulative_reward": 30.537598839419843,
+      "question_accuracy": 0.6388888888888888,
+      "content_rate": 0.6504854368932039,
+      "blueprint_adherence": 98.51851714774966,
+      "post_content_gain": 0.056810146202746735,
+      "post_content_gain_by_modality": {
+        "video": 0.0879308732001617,
+        "PPT": 0.052115638419375956,
+        "text": 0.046061271295361174,
+        "blog": 0.0580111041297203,
+        "article": 0.04954686900771594,
+        "handout": 0.05038049329580708
+      },
+      "mean_frustration": 0.08766990291262138
+    },
+    {
+      "total_steps": 110,
+      "final_mastery": 0.45037235863673697,
+      "cumulative_reward": 23.437707148784224,
+      "question_accuracy": 0.5151515151515151,
+      "content_rate": 0.7,
+      "blueprint_adherence": 98.38383700698614,
+      "post_content_gain": 0.04615015995518206,
+      "post_content_gain_by_modality": {
+        "video": 0.0815152865868913,
+        "PPT": 0.04018746649315644,
+        "text": 0.03391710330156306,
+        "blog": 0.03745115012762784,
+        "article": 0.05122571888440227,
+        "handout": 0.04594195380800191
+      },
+      "mean_frustration": 0.1333636363636364
+    },
+    {
+      "total_steps": 72,
+      "final_mastery": 0.36052699661277454,
+      "cumulative_reward": 8.447164954399616,
+      "question_accuracy": 0.28,
+      "content_rate": 0.6527777777777778,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.04914169625421486,
+      "post_content_gain_by_modality": {
+        "video": 0.09720085207957613,
+        "PPT": 0.0509925069265153,
+        "text": 0.04730301525978151,
+        "blog": 0.032436348766736664,
+        "article": 0.03563759267753983,
+        "handout": 0.028952948765829153
+      },
+      "mean_frustration": 0.4212499999999999
+    },
+    {
+      "total_steps": 80,
+      "final_mastery": 0.4361139386392693,
+      "cumulative_reward": 20.07728542055417,
+      "question_accuracy": 0.7,
+      "content_rate": 0.75,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.05121448480453101,
+      "post_content_gain_by_modality": {
+        "video": 0.08146594924125607,
+        "PPT": 0.0678801159677625,
+        "text": 0.03682265419691428,
+        "blog": 0.04893601088718412,
+        "article": 0.05504006785664193,
+        "handout": 0.033303843861917655
+      },
+      "mean_frustration": 0.09875000000000002
+    },
+    {
+      "total_steps": 120,
+      "final_mastery": 0.45632240308750394,
+      "cumulative_reward": 20.166594953238505,
+      "question_accuracy": 0.43902439024390244,
+      "content_rate": 0.6583333333333333,
+      "blueprint_adherence": 99.34959313832223,
+      "post_content_gain": 0.04193642696059289,
+      "post_content_gain_by_modality": {
+        "video": 0.06682110438101206,
+        "PPT": 0.0559520189115637,
+        "text": 0.02888340925923208,
+        "blog": 0.03475371040550894,
+        "article": 0.03273018358052256,
+        "handout": 0.030645517734645866
+      },
+      "mean_frustration": 0.39208333333333345
+    },
+    {
+      "total_steps": 85,
+      "final_mastery": 0.34843721179683956,
+      "cumulative_reward": 9.075862785659785,
+      "question_accuracy": 0.32,
+      "content_rate": 0.7058823529411765,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.04205875388684743,
+      "post_content_gain_by_modality": {
+        "video": 0.047351663442424696,
+        "PPT": 0.056979845248254266,
+        "text": 0.03787478293414382,
+        "blog": 0.04588322832302372,
+        "article": 0.029100643268263192,
+        "handout": 0.03530892278772995
+      },
+      "mean_frustration": 0.5331764705882353
+    },
+    {
+      "total_steps": 86,
+      "final_mastery": 0.43415865392266884,
+      "cumulative_reward": 37.15502124193251,
+      "question_accuracy": 0.9393939393939394,
+      "content_rate": 0.6162790697674418,
+      "blueprint_adherence": 98.78787891939282,
+      "post_content_gain": 0.05175330288587229,
+      "post_content_gain_by_modality": {
+        "video": 0.0750289174685792,
+        "PPT": 0.060861571150519364,
+        "text": 0.04854562894307156,
+        "blog": 0.055292748422491544,
+        "article": 0.041313770597935916,
+        "handout": 0.0393785255391744
+      },
+      "mean_frustration": 0.02430232558139535
+    },
+    {
+      "total_steps": 46,
+      "final_mastery": 0.38766884408135843,
+      "cumulative_reward": 3.7848971149053487,
+      "question_accuracy": 0.13333333333333333,
+      "content_rate": 0.6739130434782609,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.0596817299325825,
+      "post_content_gain_by_modality": {
+        "video": 0.09031417083531196,
+        "PPT": 0.0690978699226364,
+        "text": 0.051656836541218255,
+        "blog": 0.057910020542478416,
+        "article": 0.04564044491334323,
+        "handout": 0.030472078085157357
+      },
+      "mean_frustration": 0.4084782608695653
+    },
+    {
+      "total_steps": 105,
+      "final_mastery": 0.44360591485433465,
+      "cumulative_reward": 15.911810858294388,
+      "question_accuracy": 0.38461538461538464,
+      "content_rate": 0.6285714285714286,
+      "blueprint_adherence": 99.31623935699463,
+      "post_content_gain": 0.04315809325620739,
+      "post_content_gain_by_modality": {
+        "video": 0.0644888718351382,
+        "PPT": 0.04565132934129847,
+        "text": 0.03660364993601141,
+        "blog": 0.046912286608758895,
+        "article": 0.0346510863722234,
+        "handout": 0.03364835077593562
+      },
+      "mean_frustration": 0.4757142857142857
+    },
+    {
+      "total_steps": 131,
+      "final_mastery": 0.40518415065287916,
+      "cumulative_reward": 21.58112709574869,
+      "question_accuracy": 0.4090909090909091,
+      "content_rate": 0.6641221374045801,
+      "blueprint_adherence": 99.39393796958029,
+      "post_content_gain": 0.046696468116087006,
+      "post_content_gain_by_modality": {
+        "video": 0.06878771860887438,
+        "PPT": 0.052795471817771195,
+        "text": 0.03610336901723515,
+        "blog": 0.04524567710687432,
+        "article": 0.038914927372346544,
+        "handout": 0.04121504026999992
+      },
+      "mean_frustration": 0.3839694656488549
+    },
+    {
+      "total_steps": 83,
+      "final_mastery": 0.39724280961442143,
+      "cumulative_reward": 29.08764390535481,
+      "question_accuracy": 0.7058823529411765,
+      "content_rate": 0.5903614457831325,
+      "blueprint_adherence": 99.21568632125854,
+      "post_content_gain": 0.05358144583565076,
+      "post_content_gain_by_modality": {
+        "video": 0.07249046128364706,
+        "PPT": 0.057160921607364946,
+        "text": 0.030620548623981097,
+        "blog": 0.06503799470842503,
+        "article": 0.04123086648685212,
+        "handout": 0.03996418813162971
+      },
+      "mean_frustration": 0.07722891566265061
+    },
+    {
+      "total_steps": 86,
+      "final_mastery": 0.42970313934094617,
+      "cumulative_reward": 32.30379084236106,
+      "question_accuracy": 0.7941176470588235,
+      "content_rate": 0.6046511627906976,
+      "blueprint_adherence": 99.21568632125854,
+      "post_content_gain": 0.05078650558739495,
+      "post_content_gain_by_modality": {
+        "video": 0.0749246347223959,
+        "PPT": 0.04736324567654041,
+        "text": 0.030565744704543596,
+        "blog": 0.06490280164393579,
+        "article": 0.04808691387910227,
+        "handout": 0.04679822554156211
+      },
+      "mean_frustration": 0.07058139534883724
+    },
+    {
+      "total_steps": 103,
+      "final_mastery": 0.41434984506029454,
+      "cumulative_reward": 28.2381241666554,
+      "question_accuracy": 0.6052631578947368,
+      "content_rate": 0.6310679611650486,
+      "blueprint_adherence": 98.94736856222153,
+      "post_content_gain": 0.0489099956779478,
+      "post_content_gain_by_modality": {
+        "video": 0.0649513256156706,
+        "PPT": 0.051578189628677745,
+        "text": 0.03524432346599372,
+        "blog": 0.039273386212879305,
+        "article": 0.03590459558348306,
+        "handout": 0.040535259952213666
+      },
+      "mean_frustration": 0.19873786407766988
+    },
+    {
+      "total_steps": 89,
+      "final_mastery": 0.43189873866798645,
+      "cumulative_reward": 21.711757173687246,
+      "question_accuracy": 0.5555555555555556,
+      "content_rate": 0.5955056179775281,
+      "blueprint_adherence": 99.2592602968216,
+      "post_content_gain": 0.047008184175620374,
+      "post_content_gain_by_modality": {
+        "video": 0.064219061697285,
+        "PPT": 0.05425144509010043,
+        "text": 0.03796100404234893,
+        "blog": 0.0542540209787074,
+        "article": 0.04253205348039746,
+        "handout": 0.032056519569774906
+      },
+      "mean_frustration": 0.32685393258426987
+    },
+    {
+      "total_steps": 95,
+      "final_mastery": 0.4099982667663234,
+      "cumulative_reward": 38.428290540743646,
+      "question_accuracy": 0.7804878048780488,
+      "content_rate": 0.5684210526315789,
+      "blueprint_adherence": 98.69918525218964,
+      "post_content_gain": 0.05638138486663328,
+      "post_content_gain_by_modality": {
+        "video": 0.0805302322149087,
+        "PPT": 0.05488218474967872,
+        "text": 0.042319377881898566,
+        "blog": 0.06037884046455381,
+        "article": 0.04640651648314485,
+        "handout": 0.035037744146257765
+      },
+      "mean_frustration": 0.07578947368421052
+    },
+    {
+      "total_steps": 139,
+      "final_mastery": 0.43275883250891933,
+      "cumulative_reward": 31.389783031861878,
+      "question_accuracy": 0.54,
+      "content_rate": 0.6402877697841727,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.04822361894250686,
+      "post_content_gain_by_modality": {
+        "video": 0.07336765053990225,
+        "PPT": 0.05762874574374057,
+        "text": 0.034439955486077506,
+        "blog": 0.047316863816254405,
+        "article": 0.03617305729017006,
+        "handout": 0.035839421236295126
+      },
+      "mean_frustration": 0.31827338129496413
+    },
+    {
+      "total_steps": 114,
+      "final_mastery": 0.4207833226673879,
+      "cumulative_reward": 37.87490659811169,
+      "question_accuracy": 0.8709677419354839,
+      "content_rate": 0.7280701754385965,
+      "blueprint_adherence": 99.13978474214673,
+      "post_content_gain": 0.06120553267133284,
+      "post_content_gain_by_modality": {
+        "video": 0.08983874444564213,
+        "PPT": 0.05353078418168308,
+        "text": 0.05739050860969657,
+        "blog": 0.06572664398280213,
+        "article": 0.052187597464876376,
+        "handout": 0.04687611099282418
+      },
+      "mean_frustration": 0.041842105263157896
+    },
+    {
+      "total_steps": 120,
+      "final_mastery": 0.48523562844613916,
+      "cumulative_reward": 48.175730133778686,
+      "question_accuracy": 0.9512195121951219,
+      "content_rate": 0.6583333333333333,
+      "blueprint_adherence": 98.69918525218964,
+      "post_content_gain": 0.05195893526471752,
+      "post_content_gain_by_modality": {
+        "video": 0.07532160519513552,
+        "PPT": 0.05459162495266977,
+        "text": 0.04050131024055315,
+        "blog": 0.05610141315308986,
+        "article": 0.04821750270121146,
+        "handout": 0.038662771585450034
+      },
+      "mean_frustration": 0.0205
+    },
+    {
+      "total_steps": 85,
+      "final_mastery": 0.35882992117934837,
+      "cumulative_reward": 18.204769319564797,
+      "question_accuracy": 0.5172413793103449,
+      "content_rate": 0.6588235294117647,
+      "blueprint_adherence": 99.08045930787921,
+      "post_content_gain": 0.048888638672321454,
+      "post_content_gain_by_modality": {
+        "video": 0.07051292659317725,
+        "PPT": 0.06082619357267062,
+        "text": 0.03569516632921682,
+        "blog": 0.05706455597021234,
+        "article": 0.04608638617096339,
+        "handout": 0.03572470703479651
+      },
+      "mean_frustration": 0.34705882352941175
+    },
+    {
+      "total_steps": 47,
+      "final_mastery": 0.38231228852899835,
+      "cumulative_reward": 5.201717423280361,
+      "question_accuracy": 0.3125,
+      "content_rate": 0.6595744680851063,
+      "blueprint_adherence": 98.33333399146795,
+      "post_content_gain": 0.036268667557168774,
+      "post_content_gain_by_modality": {
+        "video": 0.07499704760307566,
+        "PPT": 0.042380400470374176,
+        "text": 0.023564861560054648,
+        "blog": 0.047229161345340734,
+        "article": 0.02503198043293556,
+        "handout": 0.02629821567020688
+      },
+      "mean_frustration": 0.45553191489361694
+    },
+    {
+      "total_steps": 120,
+      "final_mastery": 0.478950151283357,
+      "cumulative_reward": 31.157053221624857,
+      "question_accuracy": 0.5641025641025641,
+      "content_rate": 0.675,
+      "blueprint_adherence": 99.31623935699463,
+      "post_content_gain": 0.05570776235631467,
+      "post_content_gain_by_modality": {
+        "video": 0.08714436170168915,
+        "PPT": 0.0595618716192382,
+        "text": 0.03777819097739218,
+        "blog": 0.044044344364219376,
+        "article": 0.04273814328326686,
+        "handout": 0.03957155902561021
+      },
+      "mean_frustration": 0.08625000000000001
+    },
+    {
+      "total_steps": 136,
+      "final_mastery": 0.4982173017045196,
+      "cumulative_reward": 51.077263476784886,
+      "question_accuracy": 0.9302325581395349,
+      "content_rate": 0.6838235294117647,
+      "blueprint_adherence": 98.7596889026463,
+      "post_content_gain": 0.05332673790539057,
+      "post_content_gain_by_modality": {
+        "video": 0.07150914640942743,
+        "PPT": 0.0670089178969456,
+        "text": 0.047737727072025504,
+        "blog": 0.04743606651569836,
+        "article": 0.045324902402679515,
+        "handout": 0.038378019996139295
+      },
+      "mean_frustration": 0.022647058823529412
+    },
+    {
+      "total_steps": 95,
+      "final_mastery": 0.34224764062734064,
+      "cumulative_reward": 15.487078615250569,
+      "question_accuracy": 0.37142857142857144,
+      "content_rate": 0.631578947368421,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.04691241174501996,
+      "post_content_gain_by_modality": {
+        "video": 0.05016745064034747,
+        "PPT": 0.06425680289824624,
+        "text": 0.03550510666943779,
+        "blog": 0.041988550338546135,
+        "article": 0.042011833587234246,
+        "handout": 0.03407119472450895
+      },
+      "mean_frustration": 0.3222105263157896
+    },
+    {
+      "total_steps": 85,
+      "final_mastery": 0.40519614878512045,
+      "cumulative_reward": 13.25947054528094,
+      "question_accuracy": 0.3448275862068966,
+      "content_rate": 0.6588235294117647,
+      "blueprint_adherence": 99.08045930787921,
+      "post_content_gain": 0.046509754713759996,
+      "post_content_gain_by_modality": {
+        "video": 0.06726859701624502,
+        "PPT": 0.04500250626635804,
+        "text": 0.03633430555498423,
+        "blog": 0.04220664131223754,
+        "article": 0.04587098306000263,
+        "handout": 0.03659804967938781
+      },
+      "mean_frustration": 0.2978823529411766
+    },
+    {
+      "total_steps": 87,
+      "final_mastery": 0.3895817067356821,
+      "cumulative_reward": 21.671720184923586,
+      "question_accuracy": 0.5769230769230769,
+      "content_rate": 0.7011494252873564,
+      "blueprint_adherence": 98.97435903549194,
+      "post_content_gain": 0.0542369180721944,
+      "post_content_gain_by_modality": {
+        "video": 0.07938640016848844,
+        "PPT": 0.05242635959071798,
+        "text": 0.04348714602820273,
+        "blog": 0.03715246452205742,
+        "article": 0.0531460212520523,
+        "handout": 0.04441113940374713
+      },
+      "mean_frustration": 0.10114942528735635
+    },
+    {
+      "total_steps": 82,
+      "final_mastery": 0.43902700770115144,
+      "cumulative_reward": 21.28262046581677,
+      "question_accuracy": 0.5666666666666667,
+      "content_rate": 0.6341463414634146,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.0508418065085781,
+      "post_content_gain_by_modality": {
+        "video": 0.0728589044406435,
+        "PPT": 0.058018951009356355,
+        "text": 0.0430442843342403,
+        "blog": 0.03168567958443609,
+        "article": 0.04603617909668591,
+        "handout": 0.04264649993698698
+      },
+      "mean_frustration": 0.1681707317073172
+    },
+    {
+      "total_steps": 58,
+      "final_mastery": 0.37050190641687625,
+      "cumulative_reward": 7.132290845020986,
+      "question_accuracy": 0.2777777777777778,
+      "content_rate": 0.6896551724137931,
+      "blueprint_adherence": 97.03703727573156,
+      "post_content_gain": 0.04972186488259479,
+      "post_content_gain_by_modality": {
+        "video": 0.07672694856300645,
+        "PPT": 0.058234976823352526,
+        "text": 0.04616618119262045,
+        "blog": 0.034976053689023213,
+        "article": 0.051988027533529386,
+        "handout": 0.032526513463771195
+      },
+      "mean_frustration": 0.35275862068965524
+    },
+    {
+      "total_steps": 103,
+      "final_mastery": 0.43269227289170936,
+      "cumulative_reward": 14.815270818842789,
+      "question_accuracy": 0.45161290322580644,
+      "content_rate": 0.6990291262135923,
+      "blueprint_adherence": 99.13978474214673,
+      "post_content_gain": 0.04051127341439117,
+      "post_content_gain_by_modality": {
+        "video": 0.06577344863610335,
+        "PPT": 0.04536851083625914,
+        "text": 0.03419195977739367,
+        "blog": 0.029023034019015286,
+        "article": 0.03800741571850604,
+        "handout": 0.035388436666312424
+      },
+      "mean_frustration": 0.5845631067961166
+    },
+    {
+      "total_steps": 138,
+      "final_mastery": 0.4447930335882141,
+      "cumulative_reward": 59.91518829100764,
+      "question_accuracy": 0.8620689655172413,
+      "content_rate": 0.5797101449275363,
+      "blueprint_adherence": 99.08045930787921,
+      "post_content_gain": 0.05568697628880577,
+      "post_content_gain_by_modality": {
+        "video": 0.09542043007448474,
+        "PPT": 0.06233169270817177,
+        "text": 0.054206015962779235,
+        "blog": 0.04000677803929039,
+        "article": 0.040908476329288845,
+        "handout": 0.039849258938962476
+      },
+      "mean_frustration": 0.038115942028985515
+    },
+    {
+      "total_steps": 126,
+      "final_mastery": 0.46924447012279913,
+      "cumulative_reward": 33.21597161568277,
+      "question_accuracy": 0.5909090909090909,
+      "content_rate": 0.6507936507936508,
+      "blueprint_adherence": 99.39393796958029,
+      "post_content_gain": 0.04779091702866356,
+      "post_content_gain_by_modality": {
+        "video": 0.06426769353246192,
+        "PPT": 0.05835707216348325,
+        "text": 0.038472310149797864,
+        "blog": 0.0431171765044813,
+        "article": 0.036754137511636184,
+        "handout": 0.038167723512741024
+      },
+      "mean_frustration": 0.13134920634920635
+    },
+    {
+      "total_steps": 98,
+      "final_mastery": 0.3935024103783916,
+      "cumulative_reward": 26.6470719770095,
+      "question_accuracy": 0.6666666666666666,
+      "content_rate": 0.6938775510204082,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.055156719039863876,
+      "post_content_gain_by_modality": {
+        "video": 0.07580294329194327,
+        "PPT": 0.06842008313450763,
+        "text": 0.03445113620636683,
+        "blog": 0.06387854874838075,
+        "article": 0.048176183127473765,
+        "handout": 0.04152588023322599
+      },
+      "mean_frustration": 0.1479591836734694
+    },
+    {
+      "total_steps": 128,
+      "final_mastery": 0.4181589592442439,
+      "cumulative_reward": 22.271597219489927,
+      "question_accuracy": 0.4146341463414634,
+      "content_rate": 0.6796875,
+      "blueprint_adherence": 99.34959313832223,
+      "post_content_gain": 0.05228151176152016,
+      "post_content_gain_by_modality": {
+        "video": 0.07063753171360254,
+        "PPT": 0.0484308947030682,
+        "text": 0.04662601593917161,
+        "blog": 0.05571686759076083,
+        "article": 0.050576438978767485,
+        "handout": 0.040327447588512345
+      },
+      "mean_frustration": 0.3353124999999999
+    },
+    {
+      "total_steps": 102,
+      "final_mastery": 0.42916713044246385,
+      "cumulative_reward": 44.67043001740943,
+      "question_accuracy": 0.9487179487179487,
+      "content_rate": 0.6176470588235294,
+      "blueprint_adherence": 99.31623935699463,
+      "post_content_gain": 0.054904309363483256,
+      "post_content_gain_by_modality": {
+        "video": 0.07735758803706731,
+        "PPT": 0.07298079027594631,
+        "text": 0.04486867114531611,
+        "blog": 0.05182655364933209,
+        "article": 0.04951585753705612,
+        "handout": 0.03567127366624268
+      },
+      "mean_frustration": 0.029607843137254907
+    },
+    {
+      "total_steps": 83,
+      "final_mastery": 0.399764284443531,
+      "cumulative_reward": 15.17694114277094,
+      "question_accuracy": 0.4642857142857143,
+      "content_rate": 0.6626506024096386,
+      "blueprint_adherence": 98.09523820877075,
+      "post_content_gain": 0.04240868288789672,
+      "post_content_gain_by_modality": {
+        "video": 0.0535931342897417,
+        "PPT": 0.06049592438248461,
+        "text": 0.032456105470991786,
+        "blog": 0.04134366489555019,
+        "article": 0.036292245963185546,
+        "handout": 0.037306839090701
+      },
+      "mean_frustration": 0.40626506024096404
+    },
+    {
+      "total_steps": 111,
+      "final_mastery": 0.4520991708621397,
+      "cumulative_reward": 37.43513495597492,
+      "question_accuracy": 0.7209302325581395,
+      "content_rate": 0.6126126126126126,
+      "blueprint_adherence": 98.7596889026463,
+      "post_content_gain": 0.05263904402983057,
+      "post_content_gain_by_modality": {
+        "video": 0.08173747015836871,
+        "PPT": 0.058777889742102025,
+        "text": 0.04013293401543093,
+        "blog": 0.043962244962170924,
+        "article": 0.0524905443399725,
+        "handout": 0.034584331694596904
+      },
+      "mean_frustration": 0.13
+    },
+    {
+      "total_steps": 128,
+      "final_mastery": 0.43861568910435333,
+      "cumulative_reward": 33.888786614393844,
+      "question_accuracy": 0.5531914893617021,
+      "content_rate": 0.6328125,
+      "blueprint_adherence": 99.14893507957458,
+      "post_content_gain": 0.05521768094342135,
+      "post_content_gain_by_modality": {
+        "video": 0.07681071580375605,
+        "PPT": 0.0610375951411164,
+        "text": 0.045860798838868184,
+        "blog": 0.05541800935144454,
+        "article": 0.04203808142623367,
+        "handout": 0.03471986810056474
+      },
+      "mean_frustration": 0.15312500000000007
+    },
+    {
+      "total_steps": 90,
+      "final_mastery": 0.40893285360353204,
+      "cumulative_reward": 29.321722625153008,
+      "question_accuracy": 0.7857142857142857,
+      "content_rate": 0.6888888888888889,
+      "blueprint_adherence": 98.09523820877075,
+      "post_content_gain": 0.05391146175740901,
+      "post_content_gain_by_modality": {
+        "video": 0.08594717925395816,
+        "PPT": 0.05609528587854308,
+        "text": 0.03474532410809675,
+        "blog": 0.048240939275159454,
+        "article": 0.05045203659424822,
+        "handout": 0.04734816761118889
+      },
+      "mean_frustration": 0.040444444444444456
+    },
+    {
+      "total_steps": 105,
+      "final_mastery": 0.38434361736710954,
+      "cumulative_reward": 19.175619444974167,
+      "question_accuracy": 0.5142857142857142,
+      "content_rate": 0.6666666666666666,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.03899776475714364,
+      "post_content_gain_by_modality": {
+        "video": 0.054084507908676166,
+        "PPT": 0.04831473183711436,
+        "text": 0.0342079950504385,
+        "blog": 0.030262589999228606,
+        "article": 0.03008094206896864,
+        "handout": 0.04152772285919951
+      },
+      "mean_frustration": 0.4827619047619049
+    },
+    {
+      "total_steps": 107,
+      "final_mastery": 0.46427536871197395,
+      "cumulative_reward": 35.26519908972286,
+      "question_accuracy": 0.7777777777777778,
+      "content_rate": 0.6635514018691588,
+      "blueprint_adherence": 99.2592602968216,
+      "post_content_gain": 0.05105264563157379,
+      "post_content_gain_by_modality": {
+        "video": 0.07630601698440183,
+        "PPT": 0.053784689853499636,
+        "text": 0.03487982902686293,
+        "blog": 0.05158014790597435,
+        "article": 0.056429645606236915,
+        "handout": 0.035225038859963684
+      },
+      "mean_frustration": 0.08467289719626173
+    },
+    {
+      "total_steps": 107,
+      "final_mastery": 0.42580269497794687,
+      "cumulative_reward": 35.970806740512664,
+      "question_accuracy": 0.8484848484848485,
+      "content_rate": 0.6915887850467289,
+      "blueprint_adherence": 98.38383700698614,
+      "post_content_gain": 0.05000353453827132,
+      "post_content_gain_by_modality": {
+        "video": 0.06748748890777286,
+        "PPT": 0.05703044232902766,
+        "text": 0.040595243912044526,
+        "blog": 0.04680785141364173,
+        "article": 0.05488438079765989,
+        "handout": 0.03894007580456984
+      },
+      "mean_frustration": 0.04158878504672897
+    },
+    {
+      "total_steps": 111,
+      "final_mastery": 0.46815019204153835,
+      "cumulative_reward": 36.98514563536454,
+      "question_accuracy": 1.0,
+      "content_rate": 0.7567567567567568,
+      "blueprint_adherence": 98.51851761341095,
+      "post_content_gain": 0.05398176832600011,
+      "post_content_gain_by_modality": {
+        "video": 0.0687248806816844,
+        "PPT": 0.0712174765197656,
+        "text": 0.04885874172606054,
+        "blog": 0.054994963314747625,
+        "article": 0.04529072453409643,
+        "handout": 0.03896949726628275
+      },
+      "mean_frustration": 0.02252252252252252
+    },
+    {
+      "total_steps": 90,
+      "final_mastery": 0.38991117949423587,
+      "cumulative_reward": 11.242269289097472,
+      "question_accuracy": 0.3103448275862069,
+      "content_rate": 0.6777777777777778,
+      "blueprint_adherence": 99.08045930787921,
+      "post_content_gain": 0.045822600022757815,
+      "post_content_gain_by_modality": {
+        "video": 0.061532043015405394,
+        "PPT": 0.0482694743784028,
+        "text": 0.03521412197229867,
+        "blog": 0.0428210553551869,
+        "article": 0.05510928235583614,
+        "handout": 0.028499045467611235
+      },
+      "mean_frustration": 0.39444444444444443
+    },
+    {
+      "total_steps": 137,
+      "final_mastery": 0.3813696628395961,
+      "cumulative_reward": 27.370558142337025,
+      "question_accuracy": 0.43478260869565216,
+      "content_rate": 0.6642335766423357,
+      "blueprint_adherence": 99.42029118537903,
+      "post_content_gain": 0.054989553609211234,
+      "post_content_gain_by_modality": {
+        "video": 0.07536915757872961,
+        "PPT": 0.0636010111043921,
+        "text": 0.03721558949228788,
+        "blog": 0.050003325081828004,
+        "article": 0.049780180990964484,
+        "handout": 0.030868574917596116
+      },
+      "mean_frustration": 0.24321167883211683
+    },
+    {
+      "total_steps": 127,
+      "final_mastery": 0.4604442415032643,
+      "cumulative_reward": 28.050029562005548,
+      "question_accuracy": 0.59375,
+      "content_rate": 0.7480314960629921,
+      "blueprint_adherence": 98.74999923631549,
+      "post_content_gain": 0.0499035553906309,
+      "post_content_gain_by_modality": {
+        "video": 0.06277201443400482,
+        "PPT": 0.06797041933562666,
+        "text": 0.03896676017212719,
+        "blog": 0.04774669239208897,
+        "article": 0.04406294661118599,
+        "handout": 0.03990568929861781
+      },
+      "mean_frustration": 0.11818897637795275
+    },
+    {
+      "total_steps": 109,
+      "final_mastery": 0.44938879277929317,
+      "cumulative_reward": 30.020962688849433,
+      "question_accuracy": 0.5681818181818182,
+      "content_rate": 0.5963302752293578,
+      "blueprint_adherence": 99.39393796958029,
+      "post_content_gain": 0.05158937414008246,
+      "post_content_gain_by_modality": {
+        "video": 0.0790027733091423,
+        "PPT": 0.061850507032898995,
+        "text": 0.04154501983859986,
+        "blog": 0.041820677821445607,
+        "article": 0.04353543286422388,
+        "handout": 0.043036687575691436
+      },
+      "mean_frustration": 0.18211009174311932
+    },
+    {
+      "total_steps": 83,
+      "final_mastery": 0.402609210333971,
+      "cumulative_reward": 32.96181282347962,
+      "question_accuracy": 0.9,
+      "content_rate": 0.6385542168674698,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.05082449900072916,
+      "post_content_gain_by_modality": {
+        "video": 0.0828678238272597,
+        "PPT": 0.07266886156638723,
+        "text": 0.02396095446978393,
+        "blog": 0.04848010595939433,
+        "article": 0.044984975036553076,
+        "handout": 0.023978705744501266
+      },
+      "mean_frustration": 0.032289156626506034
+    },
+    {
+      "total_steps": 119,
+      "final_mastery": 0.41703844987116945,
+      "cumulative_reward": 39.04122684784857,
+      "question_accuracy": 0.6739130434782609,
+      "content_rate": 0.6134453781512605,
+      "blueprint_adherence": 99.42029118537903,
+      "post_content_gain": 0.05504371358922174,
+      "post_content_gain_by_modality": {
+        "video": 0.07380972203690263,
+        "PPT": 0.047399978278107116,
+        "text": 0.046940045460072605,
+        "blog": 0.05098558603931057,
+        "article": 0.05537881242096631,
+        "handout": 0.041067090539497676
+      },
+      "mean_frustration": 0.09285714285714286
+    },
+    {
+      "total_steps": 138,
+      "final_mastery": 0.4408870713147303,
+      "cumulative_reward": 40.8817810741147,
+      "question_accuracy": 0.7083333333333334,
+      "content_rate": 0.6521739130434783,
+      "blueprint_adherence": 99.16666699573398,
+      "post_content_gain": 0.0445645343085999,
+      "post_content_gain_by_modality": {
+        "video": 0.06474124254028776,
+        "PPT": 0.045395514679221954,
+        "text": 0.03533722431380766,
+        "blog": 0.048226484818373584,
+        "article": 0.042909486466481406,
+        "handout": 0.03655389352291825
+      },
+      "mean_frustration": 0.1494202898550725
+    },
+    {
+      "total_steps": 138,
+      "final_mastery": 0.45661658443798636,
+      "cumulative_reward": 36.210166727093444,
+      "question_accuracy": 0.5576923076923077,
+      "content_rate": 0.6231884057971014,
+      "blueprint_adherence": 99.23076876439154,
+      "post_content_gain": 0.05012574979364717,
+      "post_content_gain_by_modality": {
+        "video": 0.06945475532788624,
+        "PPT": 0.06077170437150108,
+        "text": 0.04319027929466243,
+        "blog": 0.05032761277893041,
+        "article": 0.03774318626914233,
+        "handout": 0.03431545645696811
+      },
+      "mean_frustration": 0.1431884057971015
+    },
+    {
+      "total_steps": 129,
+      "final_mastery": 0.4843836546673028,
+      "cumulative_reward": 54.64451454188759,
+      "question_accuracy": 0.9565217391304348,
+      "content_rate": 0.6434108527131783,
+      "blueprint_adherence": 98.84057836607099,
+      "post_content_gain": 0.05386235387791663,
+      "post_content_gain_by_modality": {
+        "video": 0.08053770324360102,
+        "PPT": 0.06183114101901374,
+        "text": 0.036584534614459575,
+        "blog": 0.04102659435532392,
+        "article": 0.0441718501198434,
+        "handout": 0.034412530461483896
+      },
+      "mean_frustration": 0.012945736434108528
+    },
+    {
+      "total_steps": 90,
+      "final_mastery": 0.3993373702882377,
+      "cumulative_reward": 13.763423149898555,
+      "question_accuracy": 0.35294117647058826,
+      "content_rate": 0.6222222222222222,
+      "blueprint_adherence": 99.21568632125854,
+      "post_content_gain": 0.054799858355489825,
+      "post_content_gain_by_modality": {
+        "video": 0.09187258028290472,
+        "PPT": 0.056866041978282524,
+        "text": 0.04517919345929827,
+        "blog": 0.03387992755239267,
+        "article": 0.05249754420385806,
+        "handout": 0.034584042834551645
+      },
+      "mean_frustration": 0.4066666666666665
+    },
+    {
+      "total_steps": 120,
+      "final_mastery": 0.4501225971690878,
+      "cumulative_reward": 18.089387742943703,
+      "question_accuracy": 0.34146341463414637,
+      "content_rate": 0.6583333333333333,
+      "blueprint_adherence": 99.34959313832223,
+      "post_content_gain": 0.04711836762664128,
+      "post_content_gain_by_modality": {
+        "video": 0.06270135470415021,
+        "PPT": 0.052627416930640984,
+        "text": 0.030533743358520406,
+        "blog": 0.07138866389694809,
+        "article": 0.0386312950809243,
+        "handout": 0.037360440166790895
+      },
+      "mean_frustration": 0.3518333333333334
+    },
+    {
+      "total_steps": 114,
+      "final_mastery": 0.3864552455034789,
+      "cumulative_reward": 22.070580636848668,
+      "question_accuracy": 0.5,
+      "content_rate": 0.6666666666666666,
+      "blueprint_adherence": 98.59649045392871,
+      "post_content_gain": 0.0451185922527605,
+      "post_content_gain_by_modality": {
+        "video": 0.07153889371814112,
+        "PPT": 0.056476869497954524,
+        "text": 0.03610374818994854,
+        "blog": 0.04977110367814597,
+        "article": 0.03549028401911869,
+        "handout": 0.028429814250996905
+      },
+      "mean_frustration": 0.41561403508771927
+    },
+    {
+      "total_steps": 83,
+      "final_mastery": 0.43480007502718127,
+      "cumulative_reward": 12.3846346847372,
+      "question_accuracy": 0.34782608695652173,
+      "content_rate": 0.7228915662650602,
+      "blueprint_adherence": 98.26087150722742,
+      "post_content_gain": 0.05095813676684022,
+      "post_content_gain_by_modality": {
+        "video": 0.0778805028863493,
+        "PPT": 0.06813846325198827,
+        "text": 0.0293423955429195,
+        "blog": 0.04538362856274574,
+        "article": 0.04764232848614422,
+        "handout": 0.044745515012773025
+      },
+      "mean_frustration": 0.3250602409638555
+    },
+    {
+      "total_steps": 81,
+      "final_mastery": 0.43723976352297955,
+      "cumulative_reward": 9.763253005180934,
+      "question_accuracy": 0.2857142857142857,
+      "content_rate": 0.7407407407407407,
+      "blueprint_adherence": 98.73015880584717,
+      "post_content_gain": 0.04930122269466137,
+      "post_content_gain_by_modality": {
+        "video": 0.08257426684837607,
+        "PPT": 0.0504239678559949,
+        "text": 0.022457626775148606,
+        "blog": 0.04756363649260909,
+        "article": 0.055274104536350926,
+        "handout": 0.045353524411898286
+      },
+      "mean_frustration": 0.2714814814814815
+    },
+    {
+      "total_steps": 86,
+      "final_mastery": 0.41489346597758825,
+      "cumulative_reward": 25.585633137864612,
+      "question_accuracy": 0.6785714285714286,
+      "content_rate": 0.6744186046511628,
+      "blueprint_adherence": 98.09523820877075,
+      "post_content_gain": 0.05744298376733586,
+      "post_content_gain_by_modality": {
+        "video": 0.08956942208419062,
+        "PPT": 0.06555269449341941,
+        "text": 0.03976785493110597,
+        "blog": 0.06764083031249243,
+        "article": 0.0473903842999402,
+        "handout": 0.04182031787418653
+      },
+      "mean_frustration": 0.07965116279069767
+    },
+    {
+      "total_steps": 135,
+      "final_mastery": 0.5184327137571586,
+      "cumulative_reward": 34.09652625234104,
+      "question_accuracy": 0.6764705882352942,
+      "content_rate": 0.7481481481481481,
+      "blueprint_adherence": 99.21568632125854,
+      "post_content_gain": 0.05326474244783816,
+      "post_content_gain_by_modality": {
+        "video": 0.08955486128043373,
+        "PPT": 0.05784101651586341,
+        "text": 0.026018660306721293,
+        "blog": 0.05953303593203774,
+        "article": 0.036276383006646463,
+        "handout": 0.035988970578636384
+      },
+      "mean_frustration": 0.06666666666666668
+    },
+    {
+      "total_steps": 83,
+      "final_mastery": 0.34032092766542565,
+      "cumulative_reward": 12.288255703350131,
+      "question_accuracy": 0.375,
+      "content_rate": 0.7108433734939759,
+      "blueprint_adherence": 98.88888793066144,
+      "post_content_gain": 0.049105971315702726,
+      "post_content_gain_by_modality": {
+        "video": 0.08788725266725503,
+        "PPT": 0.05527354114776293,
+        "text": 0.032717416965731,
+        "blog": 0.040654969988403615,
+        "article": 0.043680149101498075,
+        "handout": 0.033219980586952635
+      },
+      "mean_frustration": 0.4590361445783132
+    },
+    {
+      "total_steps": 123,
+      "final_mastery": 0.4701964976334253,
+      "cumulative_reward": 44.3631818727775,
+      "question_accuracy": 0.8780487804878049,
+      "content_rate": 0.6666666666666666,
+      "blueprint_adherence": 98.69918525218964,
+      "post_content_gain": 0.048175509568728854,
+      "post_content_gain_by_modality": {
+        "video": 0.0789402625582259,
+        "PPT": 0.06399115400524956,
+        "text": 0.04107662953317245,
+        "blog": 0.03910036421323052,
+        "article": 0.037995156940231936,
+        "handout": 0.043465026748124844
+      },
+      "mean_frustration": 0.04788617886178862
+    },
+    {
+      "total_steps": 125,
+      "final_mastery": 0.48543357282612987,
+      "cumulative_reward": 41.88551647661358,
+      "question_accuracy": 0.7142857142857143,
+      "content_rate": 0.608,
+      "blueprint_adherence": 99.45578179322183,
+      "post_content_gain": 0.04659307572113173,
+      "post_content_gain_by_modality": {
+        "video": 0.07851491054766475,
+        "PPT": 0.05677628024497622,
+        "text": 0.03398089281986242,
+        "blog": 0.04784980651079142,
+        "article": 0.036820300111852396,
+        "handout": 0.038932765928755955
+      },
+      "mean_frustration": 0.08056
+    },
+    {
+      "total_steps": 119,
+      "final_mastery": 0.3894067508765302,
+      "cumulative_reward": 18.72641294136698,
+      "question_accuracy": 0.4222222222222222,
+      "content_rate": 0.6218487394957983,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.04402557156193926,
+      "post_content_gain_by_modality": {
+        "video": 0.08311790209336381,
+        "PPT": 0.04128215557176952,
+        "text": 0.040964376059349224,
+        "blog": 0.029997160292224233,
+        "article": 0.032160798187977825,
+        "handout": 0.03342383748427642
+      },
+      "mean_frustration": 0.5657983193277308
+    },
+    {
+      "total_steps": 123,
+      "final_mastery": 0.4934523512611714,
+      "cumulative_reward": 36.97256069342298,
+      "question_accuracy": 0.7837837837837838,
+      "content_rate": 0.6991869918699187,
+      "blueprint_adherence": 98.9189182408154,
+      "post_content_gain": 0.04690093537351169,
+      "post_content_gain_by_modality": {
+        "video": 0.05189778849759743,
+        "PPT": 0.06473790915451842,
+        "text": 0.030840058710498983,
+        "blog": 0.05109561522716484,
+        "article": 0.0508087708242365,
+        "handout": 0.044076654303137314
+      },
+      "mean_frustration": 0.0826829268292683
+    },
+    {
+      "total_steps": 138,
+      "final_mastery": 0.45369805789955514,
+      "cumulative_reward": 34.45195073012873,
+      "question_accuracy": 0.6666666666666666,
+      "content_rate": 0.7391304347826086,
+      "blueprint_adherence": 99.2592602968216,
+      "post_content_gain": 0.05456540103988049,
+      "post_content_gain_by_modality": {
+        "video": 0.07096066204310862,
+        "PPT": 0.06085026007715885,
+        "text": 0.05163190830998399,
+        "blog": 0.05403089570663545,
+        "article": 0.04842044199660097,
+        "handout": 0.04588174374062387
+      },
+      "mean_frustration": 0.13456521739130434
+    },
+    {
+      "total_steps": 117,
+      "final_mastery": 0.41522910635955335,
+      "cumulative_reward": 29.199658876832952,
+      "question_accuracy": 0.5348837209302325,
+      "content_rate": 0.6324786324786325,
+      "blueprint_adherence": 98.7596889026463,
+      "post_content_gain": 0.050839490822653134,
+      "post_content_gain_by_modality": {
+        "video": 0.06966800525116959,
+        "PPT": 0.05184043140457454,
+        "text": 0.045536574436356184,
+        "blog": 0.04813650404931087,
+        "article": 0.05103243038314675,
+        "handout": 0.03424495727998665
+      },
+      "mean_frustration": 0.2022222222222222
+    },
+    {
+      "total_steps": 110,
+      "final_mastery": 0.4406333007898519,
+      "cumulative_reward": 39.060110778763736,
+      "question_accuracy": 0.8157894736842105,
+      "content_rate": 0.6545454545454545,
+      "blueprint_adherence": 98.59649045392871,
+      "post_content_gain": 0.05257313978925749,
+      "post_content_gain_by_modality": {
+        "video": 0.08229910243403514,
+        "PPT": 0.058156231341733144,
+        "text": 0.044624846079080356,
+        "blog": 0.04936240331155292,
+        "article": 0.04708245553673134,
+        "handout": 0.040528611989258057
+      },
+      "mean_frustration": 0.0510909090909091
+    },
+    {
+      "total_steps": 132,
+      "final_mastery": 0.421362938560912,
+      "cumulative_reward": 35.53595859735638,
+      "question_accuracy": 0.6428571428571429,
+      "content_rate": 0.6818181818181818,
+      "blueprint_adherence": 99.04761807993054,
+      "post_content_gain": 0.0535813843861886,
+      "post_content_gain_by_modality": {
+        "video": 0.07739945658902661,
+        "PPT": 0.056173100293020896,
+        "text": 0.040691837038438865,
+        "blog": 0.05524134449755473,
+        "article": 0.044133265783468385,
+        "handout": 0.04524073147632418
+      },
+      "mean_frustration": 0.1742424242424242
+    },
+    {
+      "total_steps": 119,
+      "final_mastery": 0.46816036650497195,
+      "cumulative_reward": 39.635878359955,
+      "question_accuracy": 0.7111111111111111,
+      "content_rate": 0.6218487394957983,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.05185102982922084,
+      "post_content_gain_by_modality": {
+        "video": 0.07663215239861641,
+        "PPT": 0.058130822165106,
+        "text": 0.03107150947451444,
+        "blog": 0.04099213775928196,
+        "article": 0.054431689303983496,
+        "handout": 0.04069876743848821
+      },
+      "mean_frustration": 0.10462184873949583
+    },
+    {
+      "total_steps": 124,
+      "final_mastery": 0.4426080552259837,
+      "cumulative_reward": 32.71200013330302,
+      "question_accuracy": 0.5952380952380952,
+      "content_rate": 0.6612903225806451,
+      "blueprint_adherence": 99.04761807993054,
+      "post_content_gain": 0.05273255271872023,
+      "post_content_gain_by_modality": {
+        "video": 0.08099773899242159,
+        "PPT": 0.06441844167672028,
+        "text": 0.03581213591806504,
+        "blog": 0.049382093861145386,
+        "article": 0.03707135000337822,
+        "handout": 0.04730541876683332
+      },
+      "mean_frustration": 0.12959677419354845
+    },
+    {
+      "total_steps": 107,
+      "final_mastery": 0.45989394246504356,
+      "cumulative_reward": 23.826552289009175,
+      "question_accuracy": 0.45714285714285713,
+      "content_rate": 0.6728971962616822,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.057687400236826614,
+      "post_content_gain_by_modality": {
+        "video": 0.08066068756994714,
+        "PPT": 0.05906191801450789,
+        "text": 0.04474360244894897,
+        "blog": 0.06176357174309295,
+        "article": 0.04603201366627681,
+        "handout": 0.036965206834428235
+      },
+      "mean_frustration": 0.16700934579439253
+    },
+    {
+      "total_steps": 65,
+      "final_mastery": 0.30794565495747755,
+      "cumulative_reward": 10.19081138982244,
+      "question_accuracy": 0.34782608695652173,
+      "content_rate": 0.6461538461538462,
+      "blueprint_adherence": 97.68115878105164,
+      "post_content_gain": 0.056782174448766834,
+      "post_content_gain_by_modality": {
+        "video": 0.08411789130360353,
+        "PPT": 0.059588721406087015,
+        "text": 0.05700013157499378,
+        "blog": 0.056344001658153064,
+        "article": 0.049908912506245885,
+        "handout": 0.04384411036720234
+      },
+      "mean_frustration": 0.33676923076923077
+    },
+    {
+      "total_steps": 82,
+      "final_mastery": 0.3974973875465553,
+      "cumulative_reward": 26.748783126808117,
+      "question_accuracy": 0.7096774193548387,
+      "content_rate": 0.6219512195121951,
+      "blueprint_adherence": 99.13978474214673,
+      "post_content_gain": 0.052806979767433246,
+      "post_content_gain_by_modality": {
+        "video": 0.0863826979217599,
+        "PPT": 0.050486674330288105,
+        "text": 0.04811628116188398,
+        "blog": 0.05227882430635452,
+        "article": 0.05648797185404403,
+        "handout": 0.032681706039940604
+      },
+      "mean_frustration": 0.1437804878048781
+    },
+    {
+      "total_steps": 107,
+      "final_mastery": 0.4126637042935698,
+      "cumulative_reward": 21.213400755577013,
+      "question_accuracy": 0.45161290322580644,
+      "content_rate": 0.7102803738317757,
+      "blueprint_adherence": 99.13978474214673,
+      "post_content_gain": 0.053535101436211305,
+      "post_content_gain_by_modality": {
+        "video": 0.0884917398790719,
+        "PPT": 0.05672858489166609,
+        "text": 0.031245596343043008,
+        "blog": 0.053881571879742914,
+        "article": 0.038887663823256924,
+        "handout": 0.04067048068519938
+      },
+      "mean_frustration": 0.17925233644859817
+    },
+    {
+      "total_steps": 130,
+      "final_mastery": 0.47888511602119066,
+      "cumulative_reward": 38.03916429298385,
+      "question_accuracy": 0.5849056603773585,
+      "content_rate": 0.5923076923076923,
+      "blueprint_adherence": 99.24528351984918,
+      "post_content_gain": 0.05417085931485112,
+      "post_content_gain_by_modality": {
+        "video": 0.07288832679320563,
+        "PPT": 0.06073535143688412,
+        "text": 0.03216951871847589,
+        "blog": 0.06070518746533724,
+        "article": 0.049393862187698985,
+        "handout": 0.045413855871267596
+      },
+      "mean_frustration": 0.13815384615384618
+    },
+    {
+      "total_steps": 88,
+      "final_mastery": 0.4374773226537131,
+      "cumulative_reward": 28.93848783306685,
+      "question_accuracy": 0.7586206896551724,
+      "content_rate": 0.6704545454545454,
+      "blueprint_adherence": 99.08045930787921,
+      "post_content_gain": 0.0574847470746565,
+      "post_content_gain_by_modality": {
+        "video": 0.08584236511391798,
+        "PPT": 0.05513285433127614,
+        "text": 0.0491674007992142,
+        "blog": 0.06099554146710024,
+        "article": 0.043071371437192495,
+        "handout": 0.034823384737843625
+      },
+      "mean_frustration": 0.06897727272727276
+    },
+    {
+      "total_steps": 100,
+      "final_mastery": 0.4623557197103561,
+      "cumulative_reward": 30.346770210771997,
+      "question_accuracy": 0.7058823529411765,
+      "content_rate": 0.66,
+      "blueprint_adherence": 99.21568632125854,
+      "post_content_gain": 0.05127458650890512,
+      "post_content_gain_by_modality": {
+        "video": 0.08282590085515543,
+        "PPT": 0.051108413965351894,
+        "text": 0.03544139213713369,
+        "blog": 0.054982890028521636,
+        "article": 0.04893280226265411,
+        "handout": 0.039499141482434136
+      },
+      "mean_frustration": 0.1025
+    },
+    {
+      "total_steps": 138,
+      "final_mastery": 0.48219751068245764,
+      "cumulative_reward": 50.548192332189906,
+      "question_accuracy": 0.851063829787234,
+      "content_rate": 0.6594202898550725,
+      "blueprint_adherence": 99.14893507957458,
+      "post_content_gain": 0.05396500206258577,
+      "post_content_gain_by_modality": {
+        "video": 0.08226519954609594,
+        "PPT": 0.058657714324031454,
+        "text": 0.03643902030123449,
+        "blog": 0.05990939676386003,
+        "article": 0.04821259578213811,
+        "handout": 0.0426613748201222
+      },
+      "mean_frustration": 0.044275362318840585
+    },
+    {
+      "total_steps": 46,
+      "final_mastery": 0.27909665818445156,
+      "cumulative_reward": 2.958660545226293,
+      "question_accuracy": 0.2222222222222222,
+      "content_rate": 0.6086956521739131,
+      "blueprint_adherence": 97.77777884155512,
+      "post_content_gain": 0.039630333415561395,
+      "post_content_gain_by_modality": {
+        "video": 0.05833795993814961,
+        "PPT": 0.05889385603596548,
+        "text": 0.06287597149841764,
+        "blog": 0.03268337079788356,
+        "article": 0.039597066119641935,
+        "handout": 0.011512202333863209
+      },
+      "mean_frustration": 0.6752173913043479
+    },
+    {
+      "total_steps": 98,
+      "final_mastery": 0.4246396109601511,
+      "cumulative_reward": 28.65421390690931,
+      "question_accuracy": 0.6571428571428571,
+      "content_rate": 0.6428571428571429,
+      "blueprint_adherence": 100.0,
+      "post_content_gain": 0.05206122343377405,
+      "post_content_gain_by_modality": {
+        "video": 0.07394614071268031,
+        "PPT": 0.06487689886643398,
+        "text": 0.045098992313836184,
+        "blog": 0.04321269046024504,
+        "article": 0.04614083996212875,
+        "handout": 0.03206459731240017
+      },
+      "mean_frustration": 0.17448979591836739
+    }
+  ],
+  "episode_logs": [
+    [
+      {
+        "obs": 
